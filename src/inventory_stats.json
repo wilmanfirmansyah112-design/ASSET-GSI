@@ -1,0 +1,172 @@
+{
+  "totalItems": 2016,
+  "totalQty": 3378,
+  "totalValue": 462580706,
+  "locations": [
+    {
+      "code": "BS",
+      "name": "Bojongsoang",
+      "itemCount": 126,
+      "itemQty": 151,
+      "totalValue": 17529260
+    },
+    {
+      "code": "CG",
+      "name": "Cigondewah",
+      "itemCount": 121,
+      "itemQty": 216,
+      "totalValue": 21961448
+    },
+    {
+      "code": "CM",
+      "name": "Cimahi",
+      "itemCount": 110,
+      "itemQty": 193,
+      "totalValue": 17676286
+    },
+    {
+      "code": "DU",
+      "name": "Dipatiukur",
+      "itemCount": 112,
+      "itemQty": 210,
+      "totalValue": 20017260
+    },
+    {
+      "code": "GK",
+      "name": "Gegerkalong",
+      "itemCount": 104,
+      "itemQty": 188,
+      "totalValue": 27388000
+    },
+    {
+      "code": "GUDANG",
+      "name": "Gudang Utama",
+      "itemCount": 2,
+      "itemQty": 4,
+      "totalValue": 3750000
+    },
+    {
+      "code": "JT",
+      "name": "Jatinangor",
+      "itemCount": 81,
+      "itemQty": 147,
+      "totalValue": 19314167
+    },
+    {
+      "code": "KC",
+      "name": "Kiaracondong",
+      "itemCount": 133,
+      "itemQty": 245,
+      "totalValue": 18507268
+    },
+    {
+      "code": "KI",
+      "name": "Kopo Immanuel",
+      "itemCount": 137,
+      "itemQty": 261,
+      "totalValue": 39824560
+    },
+    {
+      "code": "KK",
+      "name": "Kebon Kopi",
+      "itemCount": 164,
+      "itemQty": 287,
+      "totalValue": 15131760
+    },
+    {
+      "code": "KP",
+      "name": "Kantor Pusat",
+      "itemCount": 375,
+      "itemQty": 485,
+      "totalValue": 176268000
+    },
+    {
+      "code": "MT",
+      "name": "Moh Toha",
+      "itemCount": 133,
+      "itemQty": 241,
+      "totalValue": 18802760
+    },
+    {
+      "code": "PG",
+      "name": "Pagarsih",
+      "itemCount": 143,
+      "itemQty": 257,
+      "totalValue": 25546000
+    },
+    {
+      "code": "SP",
+      "name": "Surapati",
+      "itemCount": 126,
+      "itemQty": 195,
+      "totalValue": 19760510
+    },
+    {
+      "code": "TR",
+      "name": "Taman Rahayu",
+      "itemCount": 149,
+      "itemQty": 298,
+      "totalValue": 21103427
+    }
+  ],
+  "categories": [
+    {
+      "name": "ATK",
+      "itemCount": 489,
+      "totalValue": 10796088
+    },
+    {
+      "name": "ELEKTRONIK",
+      "itemCount": 505,
+      "totalValue": 166918400
+    },
+    {
+      "name": "FURNITURE & MEBEUL",
+      "itemCount": 204,
+      "totalValue": 128673398
+    },
+    {
+      "name": "KENDARAAN",
+      "itemCount": 5,
+      "totalValue": 108750000
+    },
+    {
+      "name": "LAIN-LAIN",
+      "itemCount": 4,
+      "totalValue": 100000
+    },
+    {
+      "name": "PERALATAN PANTRY",
+      "itemCount": 307,
+      "totalValue": 10406000
+    },
+    {
+      "name": "PERALATAN TEKNISI",
+      "itemCount": 6,
+      "totalValue": 800000
+    },
+    {
+      "name": "RUMAH TANGGA KANTOR (RTK)",
+      "itemCount": 496,
+      "totalValue": 36136820
+    }
+  ],
+  "statuses": [
+    {
+      "name": "Baik",
+      "count": 1662
+    },
+    {
+      "name": "Rusak Berat",
+      "count": 11
+    },
+    {
+      "name": "Rusak Ringan",
+      "count": 248
+    },
+    {
+      "name": "Tidak Diketahui",
+      "count": 95
+    }
+  ]
+}

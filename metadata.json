@@ -1,0 +1,6 @@
+{
+  "name": "Inventaris Barang Cabang GSI",
+  "description": "Sistem monitoring, audit, dan manajemen aset inventaris untuk seluruh cabang outlet PT Gadai Sejahtera Indonesia (GSI) dilengkapi dengan backup & restore aman terintegrasi Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
